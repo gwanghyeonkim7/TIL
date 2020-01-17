@@ -62,7 +62,7 @@
 
 - `git remote add 별명`  : 저장소 만드는것
 
-- `git remote add origin ~~~~~~~주소`  :  개발자가 처음 만드는 이름은 오리진이라고 함
+- `git remote add origin ~~~~~~~주소`  :  개발자가 처음 만드는 이름은 오리진이라고 함o
 
 - `git remote -v`  : 저장소가 생성되었는지 확인하는 것
 
